@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="date" type="id" />
+    <item name="homeTeam" type="id" />
+    <item name="homeScore" type="id" />
+    <item name="vs" type="id" />
+    <item name="awayScore" type="id" />
+    <item name="awayTeam" type="id" />
+    <item name="rv" type="id" />
+    <item name="tabFavorite" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="team_detail" type="id" />
+    <item name="player_badge" type="id" />
+    <item name="player_name" type="id" />
+    <item name="player_position" type="id" />
+
+    <item name="eventFrag" type="id" />
+</resources>
